@@ -29,6 +29,8 @@ In this project, you will find miltuple directories containing different project
 
 5. Preview images of the final Gerber output.
 
+6. CAD font for use on the PCB silkscreen - this must be installed if viewing/working on the PCB or the silkscreen text will not render correctly.
+
 # Errata, Corrections, and Modifications
 
 ## Factory Bodges
